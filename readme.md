@@ -1,6 +1,6 @@
 # Sum-Ai
 
-This is a mini project that i made because i was bored
+This is a mini project that i made because i was bored <br/>
 The python script summarizes the text on your screen using Gemini Ai
 
 ## Dependencies
