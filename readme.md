@@ -17,4 +17,4 @@ pip install colorama google.generativeai pytesseract keyboard pillow
 
 ## Usage
 
-Press 'ctrl + alt + r' to take a screenshot of the area that you want to summarize
+Press ''ctrl + alt + r'' to take a screenshot of the area that you want to summarize
